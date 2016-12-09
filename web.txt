@@ -1,3 +1,5 @@
 http://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/
 
 WinPython-64bit
+
+inno setup compiler
